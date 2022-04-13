@@ -1,0 +1,15 @@
+@import "variables";
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+
+
+
+@media (min-width: $desktopExtraLarge) {
+  .container {
+    max-width: $desktopExtraLarge;
+  }
+}
+

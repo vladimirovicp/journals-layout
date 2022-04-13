@@ -1,0 +1,18 @@
+body {
+  font-family: "Play";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  transition: color 0.5s;
+}
+
+a:hover {
+  color: red;
+}
+
+/*# sourceMappingURL=elements.css.map */

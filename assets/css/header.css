@@ -1,0 +1,20 @@
+#header .header__nav {
+  background-color: #000;
+}
+#header .header__nav .menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 50px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#header .header__nav .menu li a {
+  color: #fff;
+}
+#header .header__nav .menu li a:hover {
+  color: #FAFAFA;
+}
+
+/*# sourceMappingURL=header.css.map */

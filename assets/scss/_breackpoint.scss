@@ -1,0 +1,7 @@
+@import "variables";
+
+@mixin desktopExtraLarge{
+  @media (min-width: #{$desktopExtraLarge}){
+    @content
+  }
+}
